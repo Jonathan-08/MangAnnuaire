@@ -32,6 +32,16 @@ Pour contribuer à MangaAnnuairee, veuillez suivre ces étapes :
 
 Nous apprécions énormément toutes les contributions et nous vous remercions de votre aide pour rendre MangaAnnuaire encore meilleur !
 
+## Code de Conduite pour les Contributions (Exemple)
+Nous sommes déterminés à maintenir un environnement respectueux et accueillant pour tous ceux qui contribuent à ce projet, que ce soit en soumettant du code, des problèmes ou d'autres formes de participation.
+
+### Nos Normes
+Comportement Attendu
+Soyez respectueux envers les autres contributeurs.
+Acceptez les critiques constructives et cherchez à les utiliser pour améliorer votre travail.
+Évitez tout langage ou comportement offensant, comme les insultes, le harcèlement ou toute autre forme de comportement inapproprié.
+Respectez les idées, opinions et compétences différentes de celles des autres.
+
 
 ## Collaborator
 
@@ -40,5 +50,5 @@ Nous sommes étudiant à l'esgi en 3IW2.
 - PERROUAS Thibault 
 - ASSI Marc
 
-## Et le meilleur pour la fin 
+## Et le meilleur pour la fin ✨
 MangAnnuaire est open source.
