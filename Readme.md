@@ -38,6 +38,7 @@ Nous apprécions énormément toutes les contributions et nous vous remercions d
 Nous sommes étudiant à l'esgi en 3IW2.
 
 - PERROUAS Thibault 
+- ASSI Marc
 
 ## Et le meilleur pour la fin 
 MangAnnuaire est open source.
