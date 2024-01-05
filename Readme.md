@@ -1,10 +1,10 @@
-# MangaAnnuaire
+# MangAnnuaire
 
-MangaAnnuaire est une plateforme dédiée à répertorier et à centraliser des ressources liées à la consommation de tout ce qui concerne les mangas et l'animation japonaise. Cette plateforme vise à offrir une expérience conviviale et complète pour les passionnés de mangas en regroupant des informations, des recommandations et des ressources utiles.
+MangAnnuaire est une plateforme dédiée à répertorier et à centraliser des ressources liées à la consommation de tout ce qui concerne les mangas et l'animation japonaise. Cette plateforme vise à offrir une expérience conviviale et complète pour les passionnés de mangas en regroupant des informations, des recommandations et des ressources utiles.
 
 ## Objectif
 
-L'objectif principal de MangaAnnuaire est de fournir un répertoire exhaustif et organisé pour :
+L'objectif principal de MangAnnuaire est de fournir un répertoire exhaustif et organisé pour :
 
 - **Recenser les mangas et anime :** Cataloguer une vaste gamme de séries, films et œuvres liées à la culture manga et anime.
 - **Fournir des ressources utiles :** Offrir des liens vers des sites de streaming légaux, des librairies en ligne, des critiques, des forums de discussions, etc.
@@ -14,15 +14,15 @@ L'objectif principal de MangaAnnuaire est de fournir un répertoire exhaustif et
 
 ### Recherche avancée
 
-MangaAnnuaire offre une fonction de recherche avancée permettant aux utilisateurs de trouver des mangas, des anime, des recommandations ou des critiques spécifiques en utilisant des filtres pertinents tels que le genre, l'année de sortie, le type (série, film, OVA), etc.
+MangAnnuaire offre une fonction de recherche avancée permettant aux utilisateurs de trouver des mangas, des anime, des recommandations ou des critiques spécifiques en utilisant des filtres pertinents tels que le genre, l'année de sortie, le type (série, film, OVA), etc.
 
 ## Contribution
 
-Nous encourageons vivement la contribution de la communauté à MangaAnnuaire.
+Nous encourageons vivement la contribution de la communauté à MangAnnuaire.
 
 ## Comment contribuer
 
-Pour contribuer à MangaAnnuairee, veuillez suivre ces étapes :
+Pour contribuer à MangAnnuairee, veuillez suivre ces étapes :
 
 1. **Fork** le projet depuis [lien GitHub].
 2. Créez une branche pour votre contribution (`git checkout -b nouvelle-fonctionnalite`).
@@ -30,7 +30,7 @@ Pour contribuer à MangaAnnuairee, veuillez suivre ces étapes :
 4. Pousser vos modifications vers votre fork (`git push origin nouvelle-fonctionnalite`).
 5. Soumettez une **Pull Request** pour examiner vos modifications.
 
-Nous apprécions énormément toutes les contributions et nous vous remercions de votre aide pour rendre MangaAnnuaire encore meilleur !
+Nous apprécions énormément toutes les contributions et nous vous remercions de votre aide pour rendre MangAnnuaire encore meilleur !
 
 ## Code de Conduite pour les Contributions (Exemple)
 Nous sommes déterminés à maintenir un environnement respectueux et accueillant pour tous ceux qui contribuent à ce projet, que ce soit en soumettant du code, des problèmes ou d'autres formes de participation.
