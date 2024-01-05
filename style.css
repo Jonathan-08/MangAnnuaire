@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #2a2a2a;
+    padding: 20px;
+}
+
+header h1 {
+    color: white;
+    margin: 0;
+}
+
+nav ul {
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+}
+
+nav li {
+    margin-right: 10px;
+    color: white;
+}
+
+nav a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #757575;
+}
+
+main {
+    padding: 20px;
+}
