@@ -52,3 +52,6 @@ Nous sommes étudiant à l'esgi en 3IW2.
 
 ## Et le meilleur pour la fin ✨
 MangAnnuaire est open source.
+## Lien vers le site
+
+https://jonathan-08.github.io/MangAnnuaire/
