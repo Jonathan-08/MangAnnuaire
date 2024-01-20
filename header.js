@@ -3,8 +3,8 @@ const header = `
 <h1><a href="index.html">MangAnnuaire</a></h1>
 <nav>
     <ul>
-        <li><a href="#anime">Anime</a></li>
-        <li><a href="#manga">Manga</a></li>
+        <li><a href="anime.html">Anime</a></li>
+        <li><a href="manga.html">Manga</a></li>
         <li><a href="shopping.html">Commercial</a></li>
         <li><a href="#multimedia">Multimédia</a></li>
         <li><a href="j-music.html">J-Music</a></li>
@@ -28,6 +28,6 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 
 // Exportez la variable (peut être supprimé si vous n'utilisez pas la syntaxe require ailleurs)
-if (typeof module !== 'undefined' && typeof module.exports !== 'undefined') {
-    module.exports = header;
-}
+// if (typeof module !== "undefined" && typeof module.exports !== "undefined") {
+//     module.exports = header;
+// }
