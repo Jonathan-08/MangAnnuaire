@@ -57,5 +57,5 @@ MangAnnuaire est open source.
 
 https://jonathan-08.github.io/MangAnnuaire/
 
-## 
+###
 ![](https://github.com/Jonathan-08/MangAnnuaire/blob/GIF/gif/Gohan-Kame.gif)
