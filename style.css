@@ -51,3 +51,13 @@ main {
 .discord-link:hover {
     background-color: #677bc4;
 }
+
+.buy-button {
+    margin-left: 10px; /* Ajoute de l'espace entre le titre et le bouton Acheter */
+    padding: 8px 12px;
+    background-color: hsl(29, 100%, 50%);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
