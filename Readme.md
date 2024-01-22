@@ -49,6 +49,7 @@ Nous sommes étudiant à l'esgi en 3IW2.
 
 - PERROUAS Thibault 
 - ASSI Marc
+- MBARAPA-SOKAMBI Christopher
 
 ## Et le meilleur pour la fin ✨
 MangAnnuaire est open source.
