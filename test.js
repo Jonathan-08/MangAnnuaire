@@ -1,4 +1,4 @@
-const pomme = 'une fraise';
+const pomme = "une fraise";
 
 console.log(pomme);
 
