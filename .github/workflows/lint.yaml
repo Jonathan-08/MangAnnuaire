@@ -1,0 +1,34 @@
+name: Lint
+
+on:
+  push:
+
+jobs:
+  eslint:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "20"
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Install ESLint
+        run: npm install eslint
+
+      - name: Run EsLint
+        run: npm run lint
+
+      - name: Check ESLint Results
+        run: |
+          eslint_exit_code=$?
+          if [ $eslint_exit_code -ne 0 ]; then
+            echo "ESLint found errors. Exiting with status $eslint_exit_code."
+            exit $eslint_exit_code
+          fi

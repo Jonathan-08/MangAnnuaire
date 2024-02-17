@@ -1,0 +1,63 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #2a2a2a;
+    padding: 20px;
+}
+
+header h1 {
+    color: white;
+    margin: 0;
+}
+
+nav ul {
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+}
+
+nav li {
+    margin-right: 10px;
+    color: white;
+}
+
+nav a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #757575;
+}
+
+main {
+    padding: 20px;
+}
+
+.discord-link {
+    display: inline-block;
+    background-color: #7289da;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+}
+
+.discord-link:hover {
+    background-color: #677bc4;
+}
+
+.buy-button {
+    margin-left: 10px; /* Ajoute de l'espace entre le titre et le bouton Acheter */
+    padding: 8px 12px;
+    background-color: hsl(29, 100%, 50%);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
