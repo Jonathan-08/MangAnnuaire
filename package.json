@@ -1,0 +1,15 @@
+{
+  "name": "projet_git",
+  "version": "1.0.0",
+  "description": "MangAnnuaire est une plateforme conçue pour les fans de manga et d'animation japonaise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.56.0"
+  }
+}
